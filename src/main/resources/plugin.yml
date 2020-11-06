@@ -1,6 +1,9 @@
-name: PluginName
+name: FireWorksDX
 version: @version@-@apiversion@
-description: An empty plugin for Spigot with Maven
-authors: [ DartPower, AnotherContributorName ]
-website: https://github.com/dptmc/DPT-PluginRepoTemplate
-main: io.dpteam.PluginName.Main
+description: FireWorksDX
+authors: DartPower
+website: https://github.com/dptmc/FireWorksDX
+main: io.dpteam.FireWorksDX.Main
+commands:
+   fw:
+      description: Запуск фейрверка.

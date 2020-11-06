@@ -1,0 +1,5 @@
+fw command cooldown: 5
+Launch message: "&l&9Запущен фейрверк!"
+No access message: "&l&4У вас нет прав на использование данной команды!"
+Command used incorrrectly message: "&l&4Команда написана неправильно! /fw"
+Time left message: "&l&4Вам нужно подождать %time секунд чтобы запустить следующий фейрверк!"
