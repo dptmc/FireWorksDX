@@ -1,7 +1,7 @@
 name: FireWorksDX
 version: @version@-@apiversion@
 description: FireWorksDX
-authors: DartPower
+author: DartPower
 website: https://github.com/dptmc/FireWorksDX
 main: io.dpteam.FireWorksDX.Main
 commands:
